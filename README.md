@@ -1,1 +1,7 @@
-This repository created purpose of make exercise for HYF group2
+We always se branches, especially when swinging from trees
+
+
+* Olga <br> 
+* Razvan <br>
+* Kateryna <br> 
+
