@@ -1,8 +1,12 @@
 # Development Strategy
 
-> `team-branchies`
+> `team-name`
 
-A simple little website for the world to know a little about us
+write a short description of your web page:
+
+- what is it about?
+- who would want to read it?
+- why would they want to read it?
 
 ## 0. Set-Up
 
@@ -35,13 +39,13 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing Akbel
+## 2. User Story: introducing _name_
 
-__As a site visitor, I want to learn more about Akbel__
+__As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `2-Akbel`
+This user story was developed on a brach called `2-name`
 
 ### name.md
 
@@ -53,15 +57,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing Tiago
+## 3. User Story: introducing _name_
 
-__As a site visitor, I want to learn more about Tiago__
+__As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `3-tiago`
+This user story was developed on a brach called `3-name`
 
-### tiago.md
+### name.md
 
 Write a markdown bio page for this team member
 
@@ -71,42 +75,10 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 4. User Story: introducing Mert
-
-__As a site visitor, I want to learn more about Mert__
-
-### Repo
-
-This user story was developed on a brach called `4-mert`
-
-### mert.md
-
-Write a markdown bio page for this team member
-
-### README.md
-
-Change this team member's name on the list into a link to their new profile page
+... fill out one section for each team member ...
 
 ---
 
-## 5. User Story: introducing Joel
-
-__As a site visitor, I want to learn more about Joel__
-
-### Repo
-
-This user story was developed on a brach called `5-joel`
-
-### joel.md
-
-Write a markdown bio page for this team member
-
-### README.md
-
-Change this team member's name on the list into a link to their new profile page
-
----
-
-## 6. Finishing Touches
+## X. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
